@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nattarinee
+- 👀 I’m interested in QA Automation
+- 🌱 I’m currently learning at King's Mongkut Institute of Technology Ladkrabang 
+- 📫 nattarinee.s@doopio-tech.com
